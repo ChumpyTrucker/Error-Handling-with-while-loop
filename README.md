@@ -1,4 +1,4 @@
-# Error-Handling-with-while-loop
+# Error-Handling-with-while-loop.
 while True:
   try:
     age = int(input('What is your age?'))
